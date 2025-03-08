@@ -1,0 +1,9 @@
+venv
+__pycache__
+.git
+secrets
+web-src
+.firebase
+firebase.json
+.firebaserc
+quipsnap-client
